@@ -34,3 +34,6 @@ design. Try to write modular/reusable code wherever possible.
 REQUIRED FEATURES
 1. Rest API’s to register and sign in users.
 2. Two rest API’s as in specification.
+
+
+I have attached the DB Schema please find.
